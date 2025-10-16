@@ -1,0 +1,56 @@
+Class,Subclass,Proposed Aetiology,Signature
+Chromosomal alterations,Ploidy changes,Diploidy ,CN1
+Chromosomal alterations,Focal LOH,Focal LOH - 1x whole genome duplication,CN10
+Chromosomal alterations,Focal LOH,Focal LOH - 2x whole genome duplication,CN11
+Chromosomal alterations,Focal LOH,Focal LOH - chromosomal instability and 1x whole genome duplication,CN12
+Chromosomal alterations,Chromosomal LOH,Chromosomal LOH - 1x whole genome duplication,CN14
+Chromosomal alterations,Chromosomal LOH,Chromosomal LOH - chromosomal instability and 1x whole genome duplication,CN16
+Treatment-induced factors,Chromosomal alteration,Tandem duplication and HRD,CN17
+Unknown,Unknown,Unknown,CN18
+Chromosomal alterations,Ploidy changes,Tetraploidy,CN2
+Unknown,Unknown,Unknown,CN20
+Unknown,Unknown,Unknown,CN21
+Sequencing Artefact,Sequencing Artefact,Possible sequencing artefact,CN24
+Chromosomal alterations,Ploidy changes,Octoploidy,CN3
+Sequencing Artefact,Sequencing Artefact,Possible sequencing artefact,CN48B
+Chromosomal alterations,Structural chromosomal alterations,Chromothripsis associated amplification,CN7
+Chromosomal alterations,Focal LOH,Focal LOH - diploid and chromosomal instability,CN9
+DNA Damage and Repair Mechanisms,DNA repair deficiency,Slippage during DNA replication of the replicated DNA strand,ID1
+Unknown,Unknown,Unknown,ID12
+DNA Damage and Repair Mechanisms,DNA repair deficiency,Slippage during DNA replication of the replicated DNA strand,ID2
+Environmental factors,Tobacco Exposure,Tobacco smoking,ID3
+Unknown,Unknown,Unknown,ID5
+Sequencing Artefact,Sequencing Artefact,Possible sequencing artefact,ID83b
+DNA Damage and Repair Mechanisms,Clock-like signature,Spontaneous deamination of 5-methylcytosine (Clock-like signature),SBS1
+DNA Damage and Repair Mechanisms,DNA repair deficiency,Defective DNA mismatch repair,SBS15
+Environmental factors,Chemical exposure,Aflatoxin exposure,SBS24
+Environmental factors,Tobacco Exposure,Tobacco chewing,SBS29
+Treatment-induced factors,Chemotherapy treatment,Platinum chemotherapy treatment,SBS35
+Environmental factors,UV Exposure,Indirect effect of ultraviolet light,SBS38
+Environmental factors,Tobacco Exposure,Tobacco smoking,SBS4
+Environmental factors,Chemical exposure,Haloalkane exposure,SBS42
+Sequencing Artefact,Sequencing Artefact,Possible sequencing artefact,SBS43
+Sequencing Artefact,Sequencing Artefact,Possible sequencing artefact,SBS45
+Sequencing Artefact,Sequencing Artefact,Possible sequencing artefact,SBS49
+DNA Damage and Repair Mechanisms,Clock-like signature,Unknown (Clock-like signature),SBS5
+Sequencing Artefact,Sequencing Artefact,Possible sequencing artefact,SBS50
+Sequencing Artefact,Sequencing Artefact,Possible sequencing artefact,SBS52
+Sequencing Artefact,Sequencing Artefact,Possible sequencing artefact,SBS54
+DNA Damage and Repair Mechanisms,DNA repair deficiency,Defective DNA mismatch repair,SBS6
+Sequencing Artefact,Sequencing Artefact,Possible sequencing artefact,SBS60
+Environmental factors,UV Exposure,Ultraviolet light exposure,SBS7a
+Environmental factors,UV Exposure,Ultraviolet light exposure,SBS7b
+Treatment-induced factors,Chemotherapy treatment,Thiopurine chemotherapy treatment,SBS87
+Unknown,Unknown,Unknown,SBS94
+Sequencing Artefact,Sequencing Artefact,Possible sequencing artefact,SBS95
+Sequencing Artefact,Sequencing Artefact,Possible sequencing artefact,SBS96D
+Sequencing Artefact,Sequencing Artefact,Possible sequencing artefact,SBS96E
+Sequencing Artefact,Sequencing Artefact,Possible sequencing artefact,SBS96F
+Unknown,Unknown,Unknown,SBS23
+Unknown,Unknown,Unknown,CN19
+Unknown,Unknown,Unknown,ID4
+Mutagenic enzyme activities,Deaminase and Editing Enzyme Activity,APOBEC activity,SBS13
+Sequencing artefact,Sequencing Artefact,Possible sequencing artefact,SBS55
+Treatment-induced factors,Chemotherapy treatment,Platinum treatment,SBS31
+Unknown,Unknown,Unknown,SBS91
+Chromosomal alterations,Chromosomal LOH,Chromosomal LOH - 2x whole genome duplication,CN15

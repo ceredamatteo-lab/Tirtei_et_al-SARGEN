@@ -1,0 +1,12 @@
+cytoband	21q22.3	
+q value	0.018147	
+residual q value	0.018147	
+wide peak boundaries	chr21:42804237-43324871	
+genes in wide peak	MX1	
+	TMPRSS2	
+	C2CD2	
+	LINC00112	
+	LINC00111	
+	RIPK4	
+	PRDM15	
+	LINC00479	

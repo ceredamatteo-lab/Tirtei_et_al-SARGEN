@@ -1,0 +1,3 @@
+"Unique_Name","nGenes","nSamples","Variant_Classification","Cytoband","Wide_Peak_Limits","qvalues","key"
+"AP_1:6p21.1",78,4,"Amp","6p21.1","chr6:42193752-48775157",0.14687,"Amp_AP_1:6p21.1"
+"AP_2:17p11.2",7,3,"Amp","17p11.2","chr17:20207402-20964525",0.14687,"Amp_AP_2:17p11.2"
